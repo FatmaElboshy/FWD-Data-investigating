@@ -9,9 +9,6 @@ Project Organization
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── tmdb-movies.csv<- Data used in  the project.
-    │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
